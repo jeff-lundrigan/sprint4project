@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 vus = pd.read_csv('vehicles_us.csv')
 
-#adding a header
+# adding a header
 
 st.header("Vehicle Sales Analysis Dashboard")
 
